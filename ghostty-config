@@ -1,0 +1,14 @@
+# lives at .config/ghostty/config
+
+#### OSX bits
+macos-titlebar-tabs = true
+macos-option-as-alt = true
+  
+#### Fonts ####
+font-family = Essential Pragmata Pro
+font-family-bold = Essential Pragmata Pro
+
+#### Theme ####
+theme = GruvboxDarkHard
+
+copy-on-select = clipboard
